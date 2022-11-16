@@ -7,3 +7,4 @@ dependencies:
   - roary=3.13.0
   - scoary=1.6.16
   - prokka=1.14.6
+  - csvkit=1.0.7
